@@ -86,7 +86,6 @@ API_KEY = "redacted"
 canvas = Canvas(API_URL, API_KEY)
 
 # Create a Canvas API key
-api_key = "3591~OJRlH6xpbyCwBMEh3jlEUxDuXKt0Z3QNXaLmyS8IuAdnw2A2JUMMYYPfMozot3w"
 
 
 # create functions for getting the modules in each course
